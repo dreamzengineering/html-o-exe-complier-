@@ -26,7 +26,7 @@ An open-source Python desktop application built with Tkinter that packages web p
 ## 🚀 Installation & Setup
 
 1. **Clone or Download the Repository:**
-   Save the main exe and run it
+   Download as zip open and run it
 
 2. **Install Dependencies:**
    The application automatically detects and installs missing dependencies on launch. Alternatively, you can manually install them using `pip`:
