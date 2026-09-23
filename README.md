@@ -33,7 +33,7 @@ An open-source Python desktop application built with Tkinter that packages web p
    ```bash
    pip install pyinstaller pywebview
 
-   💝 Support the Developer
+##   💝 Support the Developer
 If this tool saved you hours of packaging headaches, consider supporting its development!
 UPI (India): `ernamaanshaid@oksbi`
 PayPal (Global): Donate via PayPal
