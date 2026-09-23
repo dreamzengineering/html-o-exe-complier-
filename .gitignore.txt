@@ -1,0 +1,27 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts & temp workspaces
+build/
+dist/
+*.spec
+version_info.txt
+ExeCompiler_Workspace/
+
+# Output Executables & Binaries
+*.exe
+
+# Environments & IDEs
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
